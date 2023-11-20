@@ -6,7 +6,7 @@ public class AeB {
 	Scanner ler = new Scanner(System.in);
 	
 	int a,b,c;
-	
+	//Trocando valores
 	System.out.println("entre com o valor de A: ");
 	
 	a = ler.nextInt();

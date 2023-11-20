@@ -5,7 +5,7 @@ public class ABC {
 		Scanner sc = new Scanner(System.in);
 		final int Tam=10;
 		int i, a[], b[], c[];
-		
+		//soma de A + B
 		a=new int[Tam];
 	    b=new int[Tam];
 	    c=new int[Tam];
